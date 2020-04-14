@@ -6,6 +6,7 @@ Print the name once, so the whitespace around the name is displayed.
 Then print the name using each of the three stripping functions, lstrip(),
 rstrip(), and strip().
 """
+# Strips whitespaces from right, left and both sides of the string
 name = "\talex\t\n"
 print(name)
 
